@@ -36,6 +36,6 @@ jobs:
       with:
         image: kalpanam22/demo-app
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: kalpanam22
+        password: Devops@2912
          
